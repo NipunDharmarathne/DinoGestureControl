@@ -1,8 +1,8 @@
 # Dino Gesture Control 🦖✋
 Control the Google Chrome Dino game using hand gestures with OpenCV and MediaPipe. Raise your fingers, and the Dino jumps automatically—no keyboard needed!
 
-<!-- Demo
-📌 Add a GIF or screenshot here to show how it works. -->
+# Demo
+![Demo](demo.gif)
 
 ## Features
 ✅ Tracks hand movements in real-time using OpenCV & MediaPipe  
