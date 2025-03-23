@@ -18,21 +18,21 @@ cd DinoGestureControl
  ```
 
 2️⃣ Create the Virtual Environment  
-For Windows:
+###### For Windows:
  ```bash
 python -m venv venv
  ```
-For macOS/Linux:
+###### For macOS/Linux:
  ```bash
 python3 -m venv venv
  ```
 
 3️⃣ Activate the Virtual Environment  
-For Windows:
+###### For Windows:
  ```bash
 venv\Scripts\activate
  ```
-For macOS/Linux:
+###### For macOS/Linux:
  ```bash
 source venv/bin/activate
  ```
