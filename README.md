@@ -17,12 +17,32 @@ git clone https://github.com/NipunDharmarathne/DinoGestureControl.git
 cd DinoGestureControl  
  ```
 
-2️⃣ Install dependencies  
+2️⃣ Create the Virtual Environment  
+For Windows:
+ ```bash
+python -m venv venv
+ ```
+For macOS/Linux:
+ ```bash
+python3 -m venv venv
+ ```
+
+3️⃣ Activate the Virtual Environment  
+For Windows:
+ ```bash
+venv\Scripts\activate
+ ```
+For macOS/Linux:
+ ```bash
+source venv/bin/activate
+ ```
+
+4️⃣ Install dependencies  
  ```bash
 pip install -r requirements.txt  
  ```
 
-3️⃣ Run the script  
+5️⃣ Run the script  
  ```bash
 python dino_gesture_control.py 
  ```  
